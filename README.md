@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Elbilkasy</h1>
-<h3 align="center">I'm Software Engineer, I'm Studying in Computer Science At Kafr Elsheikh University</h3>
+<h3 align="center">I'm Software Engineer, I'm Student in Faculty Of Computer & Information At Kafr Elsheikh University</h3>
 
 - 🌱 I’m currently learning **OOP C#, Flutter & Python**
 
