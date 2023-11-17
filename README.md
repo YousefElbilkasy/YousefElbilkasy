@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Elbilkasy</h1>
-<h3 align="center">I'm Software Engineering, I'm Studying in Computer Science At Kafr Elsheikh University</h3>
+<h3 align="center">I'm Software Engineer, I'm Student in Faculty Of Computer Science At Kafr Elsheikh University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefelbilkasy" alt="yousefelbilkasy" /></a> </p>
 
