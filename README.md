@@ -1,16 +1,12 @@
 
 <h1 align="center"><b>Hi , I'm Yousef Elbilkasy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+there%2C+I'm+Yousef+Elbilkasy%F0%9F%91%8B;Welcome+to+My+Profile%F0%9F%AB%A1%F0%9F%8E%8A%E2%9C%A8;I'm+Happy+to+Your+Visit%F0%9F%99%82%F0%9F%A4%97;I'm+Computer+Science+Student%F0%9F%92%BB;I+Love+to+Explore+New+Technologies%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
-
 <br>
 
 
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
